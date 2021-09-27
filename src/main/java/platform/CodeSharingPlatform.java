@@ -10,7 +10,6 @@ import platform.persistance.CodeRepository;
 public class CodeSharingPlatform {
 
     public static void main(String[] args) {
-        System.out.println("println");
         SpringApplication.run(CodeSharingPlatform.class, args);
     }
 
