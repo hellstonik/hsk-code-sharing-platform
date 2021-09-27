@@ -1,0 +1,31 @@
+#load_date {
+    color: green;
+}
+
+#code_snippet {
+    border:2px solid black;
+    background-color: lightgrey;
+    min-height: 250px;
+    min-width: 350px;
+    overflow: hidden;
+}
+
+#time_restriction {
+    margin-top: 20px;
+}
+
+#views_restriction {
+    margin-top: 20px;
+}
+
+#send_snippet {
+    margin-top: 20px;
+}
+
+#time_restriction:empty {
+  display: none;
+}
+
+#views_restriction:empty {
+  display: none;
+}
