@@ -1,6 +1,6 @@
 ﻿# hsk-code-sharing-platform
 
-Simple analog of pastebin.com. 
+Simple analog of https://pastebin.com/ .
 Description of api will be added later.
 
 
